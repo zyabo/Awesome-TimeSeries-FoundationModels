@@ -2,7 +2,7 @@
 
 Awesome resources and papers about leveraging Foundation Models for Time Series Analysis.
 
-
+# TimeSeries FoundationModels
 
 |      | Year | Model Name              | Paper Title                                                  | Paper URL                                 | Code/API/HuggingFace                                         | Authors                                                      |
 | ---- | ---- | ----------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -15,8 +15,12 @@ Awesome resources and papers about leveraging Foundation Models for Time Series 
 | 7    | 2024 | Timer                   | Timer: Generative Pre-trained Transformers Are Large Time Series Models | [Paper](https://arxiv.org/abs/2402.02368) | [Code](https://github.com/thuml/Large-Time-Series-Model?tab=readme-ov-file) | [Yong Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+Y), et al. |
 | 8    | 2024 | TOTEM                   | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [Paper](https://arxiv.org/abs/2402.16412) | [Code](https://github.com/SaberaTalukder/TOTEM)              | [Sabera Talukder](https://arxiv.org/search/cs?searchtype=author&query=Talukder,+S),  et al. |
 
+# 💡 News
+- **Update Logs**
+    - **2024/10/18** Add 10 papers
 
 
+# 📒 More Details
 ## 1.TimeGPT-1
 
 ### Abstract
